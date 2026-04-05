@@ -19,7 +19,7 @@ https://stock-sentiment-predictor-9ckzpysbshhlpbekcszkw7.streamlit.app/
 - Streamlit, Matplotlib, Seaborn
 
 ## 📊 Key Finding
-Sentiment ranked as the #2 most important feature, proving that news sentiment adds measurable predictive value beyond price data alone.
+Sentiment ranked as the #4 most important feature, proving that news sentiment adds measurable predictive value beyond price data alone.
 
 ## 🚀 Run Locally
 ```bash
